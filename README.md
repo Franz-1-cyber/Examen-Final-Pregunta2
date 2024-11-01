@@ -1,4 +1,3 @@
-# Examen-Final-Pregunta2
 
 # Examen Final Pregunta 2
 
