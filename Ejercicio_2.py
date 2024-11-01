@@ -1,4 +1,3 @@
-# Este es un nuevo archivo
 from abc import ABC, abstractmethod
 
 class Persona(ABC):
@@ -101,3 +100,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
